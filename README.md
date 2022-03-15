@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @shamhiruthik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on .---..
-- 📫 How to reach me ...
-
-<!---
-shamhiruthik/shamhiruthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an Aspiring Data Scientist who is passionate about drowning in the Ocean of Data. Currently doing an internship in Embedded systems based on EMBEDDED C, C++ and Developing a Discord bot with python by self-paced. Currently learning Data Analytics and Exploring Databases and Datasets. Proudly, drowning in my passion with my self-rule "𝘚𝘵𝘳𝘪𝘬𝘦 𝘵𝘩𝘦 𝘐𝘳𝘰𝘯 𝘸𝘩𝘪𝘭𝘦 𝘪𝘵'𝘴 𝘩𝘰𝘵".
